@@ -1,0 +1,2 @@
+# z390hackintosh
+i9 9900k Asus TUF Z390 Gaming Pro HyperX 16GB DDR3 Auros WXA210 WiFi6E
