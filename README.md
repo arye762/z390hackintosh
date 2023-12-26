@@ -9,13 +9,15 @@
 
 ## Hardware
 
-| Category  | Component                            |
-| --------- | ------------------------------------ |
-| CPU       | Intel Core i9 9900k                  |
-| Memory    | HyperX 16GB DDR4 3200                |
-| Mobo      | Asus TUF Z390 Gaming Pro  LGA1151    |
-| GPU       | Intel HD 630                         |
-| SSD       | WD SSD SDBPNTY 512 G                 |
-| WiFi & BT | Auros WBAX210 WiFi6E                 |
-| Ethernet  | Intel I219-V                         |
-
+| Category   | Component                             |
+| ---------- | ------------------------------------- |
+| CPU        | Intel Core i9 9900k                   |
+| Memory     | HyperX 16GB DDR4 3200                 |
+| Mobo       | Asus TUF Z390 Gaming Pro LGA1151      |
+| GPU        | Intel HD 630                          |
+| SSD        | WD SSD SDBPNTY 512 GB                 |
+| WiFi & BT  | Auros WBAX210 WiFi6E                  |
+| Ethernet   | Intel I219-V                          |
+| Monitor    | Samsung Odyssey G50 2K Display        |
+| Keyboard   | Logitech MX Mini Keys via Bolt USB    |
+| Mouse      | Logitech MX Anywhere 3 via Unified USB|
