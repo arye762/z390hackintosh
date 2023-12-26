@@ -12,4 +12,4 @@
 | Ethernet  | Intel I219-V                         |
 
 &nbsp;
-![Screenshot 2023-12-20 at 8 25 13 PM](https://github.com/arye762/z390hackintosh/assets/123521233/a1bd85e9-c0f4-4fb9-9d2f-4140ffafb30b)
+![Screenshot 2023-12-26 at 11 39 59 AM](https://github.com/arye762/z390hackintosh/assets/123521233/be78bda6-ff37-423c-a01e-e2a346c90b19)
