@@ -4,7 +4,7 @@
 [![macOS](https://img.shields.io/badge/macOS-Ventura-brightgreen.svg)](https://developer.apple.com/documentation/macos-release-notes)
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.9.7-blue)](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.9.7)
 
-![Screenshot 2023-12-26 at 11 39 59 AM](https://github.com/arye762/z390hackintosh/assets/123521233/98789ef1-a1f8-4a7e-a049-90a5f0555b74)
+![Screenshot 2023-12-26 at 11 39 59 AM](https://github.com/arye762/z390hackintosh/assets/123521233/d9abaa3d-9846-4e49-a3a3-c8082a4d3d10)
 
 
 ## Hardware
