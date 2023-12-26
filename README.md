@@ -21,3 +21,6 @@
 | Monitor    | Samsung Odyssey G50 2K Display        |
 | Keyboard   | Logitech MX Mini Keys via Bolt USB    |
 | Mouse      | Logitech MX Anywhere 3 via Unified USB|
+
+## ⚠️ Disclaimer
+This guide only applies to the Asus Z390M-Pro Gaming Pro motherboard. I am NOT liable for any damage you create to your device. This guide is provided "as-is," and every action you take is at your own risk.
