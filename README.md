@@ -28,5 +28,8 @@
 ## ⚠️ Disclaimer
 This guide only applies to the Asus Z390M-Pro Gaming Pro motherboard. I am NOT liable for any damage you create to your device. This guide is provided "as-is," and every action you take is at your own risk.
 
-## Installation
-I followed the guide from the repo from [alieneotor][  ](https://github.com/alienator88/ASUS-TUF-Z390M-Pro-Gaming-Hackintosh-OpenCore/tree/Ventura) since we have similar hardware
+## Installation | Create Install Media | Configure and install OpenCore | GenSMBIOS
+I followed the guide from the repo from [alieneotor](https://github.com/alienator88/ASUS-TUF-Z390M-Pro-Gaming-Hackintosh-OpenCore/tree/Ventura) since we have similar hardware.
+
+### Configure OpenCore
+In this part, we have to go to the [Opencore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/) repo and review all the details that will work for our hardware.
