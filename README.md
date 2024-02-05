@@ -14,7 +14,7 @@
 | CPU        | Intel Core i9 9900k                   |
 | CPU Cooler | Gamemaxx IceBerg 240mm Water Cooling  |	
 | Memory     | HyperX 32GB DDR4 3200                 |
-| Mobo       | Asus TUF Z390 Gaming Pro LGA1151      |
+| Mobo       | Asus TUF Z390 Pro Gaming LGA1151      |
 | GPU        | AMD Radeon Vega 64 8GB / Intel HD 630 |
 | SSD        | WD SSD SDBPNTY 512 GB                 |
 | WiFi & BT  | Auros WBAX210 WiFi6E                  |
@@ -26,7 +26,7 @@
 | Mouse      | Logitech MX Anywhere 3 via Unified USB|
 
 ## ⚠️ Disclaimer
-This guide only applies to the Asus Z390M-Pro Gaming Pro motherboard. I am NOT liable for any damage you create to your device. This guide is provided "as-is," and every action you take is at your own risk.
+This guide only applies to the Asus Z390-Pro Gaming Pro motherboard. I am NOT liable for any damage you create to your device. This guide is provided "as-is," and every action you take is at your own risk.
 
 ## Installation | Create Install Media | Configure and install OpenCore | GenSMBIOS
 I followed the guide from the repo from [alieneotor](https://github.com/alienator88/ASUS-TUF-Z390M-Pro-Gaming-Hackintosh-OpenCore/tree/Ventura) since we have similar hardware.
