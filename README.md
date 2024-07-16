@@ -1,11 +1,10 @@
-# Asus TUF Z390-PRO Gaming Hackintosh - OpenCore - Ventura
+# Asus TUF Z390-PRO Gaming Hackintosh - OpenCore - Sonama 14.5
 
 
 [![macOS](https://img.shields.io/badge/macOS-Ventura-brightgreen.svg)](https://developer.apple.com/documentation/macos-release-notes)
-[![OpenCore](https://img.shields.io/badge/OpenCore-0.9.7-blue)](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.9.7)
+[![OpenCore](https://img.shields.io/badge/OpenCore-1.0.0-blue)](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.9.7)
 
-![Screenshot 2023-12-27 at 11 59 38 AM](https://github.com/arye762/z390hackintosh/assets/123521233/4c9a54d9-cf0c-4065-8025-01353095a8b0)
-
+![Screenshot 2024-07-16 at 9 38 34 AM](https://github.com/user-attachments/assets/4ca63a63-5b28-43c9-b28f-c11f66ce3108)
 
 ## Hardware
 
@@ -24,6 +23,7 @@
 | Monitor    | Samsung Odyssey G50 2K Display        |
 | Keyboard   | Logitech MX Mini Keys via Bolt USB    |
 | Mouse      | Logitech MX Anywhere 3 via Unified USB|
+| Bluetooth	 | Asus BT-400 USB Dongle						 |
 
 ## ⚠️ Disclaimer
 This guide only applies to the Asus Z390-Pro Gaming Pro motherboard. I am NOT liable for any damage you create to your device. This guide is provided "as-is," and every action you take is at your own risk.
@@ -32,4 +32,9 @@ This guide only applies to the Asus Z390-Pro Gaming Pro motherboard. I am NOT li
 I followed the guide from the repo from [alieneotor](https://github.com/alienator88/ASUS-TUF-Z390M-Pro-Gaming-Hackintosh-OpenCore/tree/Ventura) since we have similar hardware.
 
 ### Configure OpenCore
-In this part, we have to go to the [Opencore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/) repo and review all the details that will work for our hardware.
+In this part, we have to go to the [Opencore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/) repo and review all the details that will work for our hardware. Under Config follow Coffee Lake Config.plist.
+
+### Troubleshooting tips
+Installation boot part: You might need to press space in order to see the installer, as in later versions of OpenCore HideAuxiliary is enabled by default.
+
+In the installation process if it IS going through a loop process you might need to disable some kext and security settings, I saw this from youtube [TechNolLi HACKINTOSH IS OVER](https://youtu.be/Z9va5xRtuvw?t=477)
