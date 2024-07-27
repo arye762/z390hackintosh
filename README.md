@@ -23,10 +23,11 @@
 | Monitor    | Samsung Odyssey G50 2K Display        |
 | Keyboard   | Logitech MX Mini Keys via Bolt USB    |
 | Mouse      | Logitech MX Anywhere 3 via Unified USB|
-| Bluetooth	 | Asus BT-400 USB Dongle						 |
+| Bluetooth	 | Asus BT-400 USB Dongle				 |
+
 
 ## ⚠️ Disclaimer
-This guide only applies to the Asus Z390-Pro Gaming Pro motherboard. I am NOT liable for any damage you create to your device. This guide is provided "as-is," and every action you take is at your own risk.
+This guide only applies to the Asus Z390-Pro Gaming motherboard. I am NOT liable for any damage you create to your device. This guide is provided "as-is," and every action you take is at your own risk.
 
 ## Installation | Create Install Media | Configure and install OpenCore | GenSMBIOS
 I followed the guide from the repo from [alieneotor](https://github.com/alienator88/ASUS-TUF-Z390M-Pro-Gaming-Hackintosh-OpenCore/tree/Ventura) since we have similar hardware.
