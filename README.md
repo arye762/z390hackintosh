@@ -1,9 +1,10 @@
 # Asus TUF Z390-PRO Gaming Hackintosh - OpenCore - Sonama 14.6.1
 
-[![macOS](https://img.shields.io/badge/macOS-Ventura-brightgreen.svg)](https://developer.apple.com/documentation/macos-release-notes)
+[![macOS](https://img.shields.io/badge/macOS-Sonama-brightgreen.svg)](https://developer.apple.com/documentation/macos-release-notes)
 [![OpenCore](https://img.shields.io/badge/OpenCore-1.0.0-blue)](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.9.7)
 
-![Screenshot 2024-07-16 at 9 38 34â€¯AM](https://github.com/user-attachments/assets/4ca63a63-5b28-43c9-b28f-c11f66ce3108)
+![Screenshot 2024-08-21 at 2 40 37 PM](https://github.com/user-attachments/assets/27136383-fd31-4824-9840-568d12262a31)
+
 
 ## Hardware
 
@@ -25,14 +26,9 @@
 | Bluetooth	 | Asus BT-400 USB Dongle				 |
 <<<<<<< HEAD
 
-## âš ï¸ Disclaimer
-This guide only applies to the Asus Z390 Gaming Pro motherboard. I am NOT liable for any damage you create to your device. This guide is provided "as-is," and every action you take is at your own risk.
-=======
 
-
-## âš ï¸ Disclaimer
+## Disclaimer
 This guide only applies to the Asus Z390-Pro Gaming motherboard. I am NOT liable for any damage you create to your device. This guide is provided "as-is," and every action you take is at your own risk.
->>>>>>> 1b21a3e918e80228a4ccdbad4d148a1606a6b3f7
 
 ## Installation | Create Install Media | Configure and install OpenCore | GenSMBIOS
 I followed the guide from the repo from [alieneotor](https://github.com/alienator88/ASUS-TUF-Z390M-Pro-Gaming-Hackintosh-OpenCore/tree/Ventura) since we have similar hardware.
