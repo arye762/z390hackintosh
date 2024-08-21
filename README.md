@@ -36,9 +36,9 @@ I followed the guide from the repo from [alieneotor](https://github.com/alienato
 ### Configure OpenCore
 In this part, we have to go to the [Opencore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/) repo and review all the details that will work for our hardware. Under Config follow Coffee Lake Config.plist.
 
-### BIOS Settings
+## BIOS Settings
 Note: Most of these options may not be present in your firmware, we recommend matching up as closely as possible but don't be too concerned if many of these options are not available in your BIOS
-## Disable
+### Disable
 - Fast Boot
 - Secure Boot
 - Serial/COM Port
@@ -49,7 +49,7 @@ Note: Most of these options may not be present in your firmware, we recommend ma
 - Intel SGX
 - Intel Platform Trust
 - CFG Lock (MSR 0xE2 write protection)(This must be off, if you can't find the option then enable AppleXcpmCfgLock under Kernel -> Quirks. Your hack will not boot with CFG-Lock enabled)
-## Enable
+### Enable
 - VT-x
 - Above 4G Decoding
 - Hyper-Threading
